@@ -1,0 +1,20 @@
+#include<iostream.h>
+#include<stdio.h>
+#include<conio.h>
+
+double area(double l, double b) 
+{
+if(b==0) 
+return l * l;
+else
+return l * b;
+}
+void main()
+{
+clrscr();
+cout << "Area of 12.2 by 13.3 rectangle: "<< "\n";
+cout << area(12.2, 13.3) << "\n";
+cout << "Area of 12.0 by 12.0 square:"<< "\n";
+cout << area(12.0,0);
+getch();
+}

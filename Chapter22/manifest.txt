@@ -1,0 +1,2 @@
+     Name: FirstBean.class
+     Java-Bean: True

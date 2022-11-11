@@ -1,0 +1,3 @@
+javac throwException.java
+java throwException
+pause

@@ -1,0 +1,3 @@
+javac gridLayoutManager.java
+appletviewer gridLayoutManager.java
+pause

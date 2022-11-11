@@ -1,0 +1,3 @@
+appletviewer ColorPopupMenu.java
+java ColorPopupMenu
+pause

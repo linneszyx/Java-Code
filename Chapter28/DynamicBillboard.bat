@@ -1,0 +1,3 @@
+javac DynamicBillboard.java
+appletviewer DynamicBillboard
+pause

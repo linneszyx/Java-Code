@@ -1,0 +1,3 @@
+javac Arithmetic1
+java Arithmetic1
+pause

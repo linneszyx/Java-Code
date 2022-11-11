@@ -1,0 +1,20 @@
+        shape
+        draw()
+        erase()                     Hierarchial Inheritance            
+
+circle   square    triangle
+draw()    draw()   draw()
+erase()   erase()  erase()
+
+
+
+
+ ( Super)      class A
+
+  ( sub )     class B                         Single Inheritance
+
+
+     class C   class A  Class D                  Multiple inheritance
+
+
+                class B       (Subclass having several super classes)

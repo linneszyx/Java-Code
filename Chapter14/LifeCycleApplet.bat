@@ -1,0 +1,3 @@
+appletviewer LifeCycleApplet.java
+java LifeCycleApplet
+pause

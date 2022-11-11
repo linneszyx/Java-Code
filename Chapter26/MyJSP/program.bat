@@ -1,0 +1,3 @@
+javac program.java
+
+pause

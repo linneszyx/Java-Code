@@ -1,0 +1,3 @@
+javac cardLayoutManager.java
+appletviewer cardLayoutManager.java
+pause

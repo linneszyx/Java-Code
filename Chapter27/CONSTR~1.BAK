@@ -1,0 +1,41 @@
+#include<iostream.h>
+#include<stdio.h>
+#include<conio.h>
+
+const int MAX=4;
+int i=0;
+class X 
+{
+public:
+X() 
+{
+if(i<MAX) 
+{
+i++;
+}
+else 
+{
+cout<<"No construct";
+//exit(0);
+}
+}
+~X() 
+{
+i--;
+}
+};
+void f()
+{
+X x; 
+}
+void main()
+{
+int j;
+clrscr();
+for(j=0; j<(MAX*2); j++) 
+{
+f();
+cout << "Current counter is: " << i<<"\n";
+}
+getch();
+}

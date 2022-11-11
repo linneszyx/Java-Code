@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ccb8449-1df9-4e00-8dbd-017cb5bee88c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/../.vscode/launch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/AlternativeCharactersOfAString.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/AmicablePairs.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/AmicablePairs.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/AmstrgFrom1ToN.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/AmstrgFrom1ToN.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/Arith.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/ArrayReverse.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/ArrayReverse.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/ArraySort.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/ArraySort.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/ArraySortWithFunctions.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/ArraySorting.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/ArraySumIndexRange.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/CapSeriesOf2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/CharOrDigitOrSS.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/CharOrDigitOrSS1.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/CompareTwoStringsWithoutStrFunctions.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/CountOfCharactersWithoutStrFunctions.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/CountOfVowels_Consonants.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/Days.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/DigitalSum.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/DistBtTwoPoints.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/EiffelTowerProg.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/Even_OddElementsInAnArray.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/FREQUENCY.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/Factorial.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/FindMissingElement.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/FirstNonRepeatingCharacter.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/FreqOfChar.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/FrequencyOfCharacters.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/GCD.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/GIvenStringsAreAnaramsOrNot.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/InsertionSort.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/LCASE.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/Largest_SmallestElementInArray.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/Leader.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/LinearSearch.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/Lower_Upper TringMat.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/MatrixDisplay.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/MultiTable.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/Multiplesof3.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/Pattern.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/Pattern1.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/Pattern3.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/Pattern4.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/PatternDiamond.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/Power.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/PrintCharOnly.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/RemoveCharactersFromAStringExceptAlphabets.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/SLL.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/Sample.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/Sample12.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/SelectionSot.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/Series(0,1,3,6,10).c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/Series(1+1by2+1 by3+1by4).c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/Series(1star2star3star4star5Newline6star7..).c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/Series(2 5 10 17 26 37).c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/Series(2+5+11+23).c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/Series(3+33+333+3333).c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/Series(36 34 30 28 24 22 18).c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/Series(53 53 40 40 27 27).c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/Series(7 10 8 11 9 ..).c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/SeriesOfSquaresInNaturalNumbers.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/SortingElementsUsingArray.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/Sqrt.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/SquareOfEachElementInAnArray.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/StringInSubStringOrNot.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/Structures.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/StructuresCollege.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/SubArraySumGreaterElement.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/SumOfElementsInAnArray.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/SumOfIndNUM.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/SumOfNNaturalNumbers.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/SumOfNum.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/SumofSquaresMinus1.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/ToRemoveAGivenCharacterFromAString.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/TransposeMat.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/UppertoLower.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/VC.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/Vowels_ConsonantsInAString.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/Xpattern.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/Xpattern.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/Xpattern.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/arrayProd.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/arrayadd.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/assgtop.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/assgtop1.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/balls.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/cube.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/cubehole.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/diamond.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/ex1.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/exp1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/extern.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/factorial.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/gcd.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/ltriangle.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/luckynumber.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/permitation.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/power_of_number.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/prime.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/print_matrix.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/sample1.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/sort.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/sp.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/squarePattern.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/strcmp.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/strcnt.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/stringpermitation.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/structure.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/sum_of_even_numbers.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/tables.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/tower.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/tower.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/triangle.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C and C++/zigzag.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Competitive Programming/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Competitive Programming/new.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Competitive Programming/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/2-D Array/012dArray.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/2-D Array/012dArray.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/2-D Array/022CharArray.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/2-D Array/022CharArray.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/2-D Array/Dynamic2DArray.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/2-D Array/Dynamic2DArray.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/2-D Array/SortedArraySearch.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/2-D Array/SortedArraySearch.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/2-D Array/SpiralPrint.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/2-D Array/SpiralPrint.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Array/01array.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Array/01array.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Array/02array.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Array/02array.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Array/ArrayPairs.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Array/ArrayPairs.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Array/BinarySearch.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Array/BinarySearch.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Array/LinearSearch.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Array/LinearSearch.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Array/ReverseArray.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Array/ReverseArray.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Array/SubArray.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Array/SubArray.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Array/Vector.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Array/Vector.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/BIt Manipulation/01Bit.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/BIt Manipulation/01Bit.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/BIt Manipulation/ConverToBinary.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/BIt Manipulation/ConverToBinary.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/BIt Manipulation/CountSetBits.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/BIt Manipulation/CountSetBits.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/BIt Manipulation/ODDEVENBIT.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/BIt Manipulation/ODDEVENBIT.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/BIt Manipulation/ReplaceBits.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/BIt Manipulation/ReplaceBits.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/BIt Manipulation/common_ops.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/BIt Manipulation/common_ops.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/BIt Manipulation/fast_exponentitation.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/BIt Manipulation/fast_exponentitation.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/BIt Manipulation/poweroftwo.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/BIt Manipulation/poweroftwo.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Backtracking/ArraysBackTracking.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Backtracking/ArraysBackTracking.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Divide and Conquer/MergeSort.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Divide and Conquer/MergeSort.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Divide and Conquer/QuickSort.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Divide and Conquer/QuickSort.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Divide and Conquer/RotatedSearch.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Divide and Conquer/RotatedSearch.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Recurison/Numberspell.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Recurison/Numberspell.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Recurison/RecursionDirection.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Recurison/RecursionDirection.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Recurison/SortedArray.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Recurison/SortedArray.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Recurison/bubblesort.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Recurison/bubblesort.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Recurison/factorial.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Recurison/factorial.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Recurison/fibonacci.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Recurison/fibonacci.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Recurison/firstoccurence.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Recurison/firstoccurence.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Recurison/lastOccurence.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Recurison/lastOccurence.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Recurison/powerfun.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Recurison/powerfun.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Sorting Algorithms/BubbleSort.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Sorting Algorithms/BubbleSort.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Sorting Algorithms/CountSort.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Sorting Algorithms/CountSort.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Sorting Algorithms/InBuiltSort.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Sorting Algorithms/InBuiltSort.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Sorting Algorithms/InsertionSort.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Sorting Algorithms/InsertionSort.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Sorting Algorithms/SelectionSort.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Sorting Algorithms/SelectionSort.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Strings/01string.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Strings/01string.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Strings/02string.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Strings/02string.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Strings/03string.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Strings/03string.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Strings/LargestString.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Strings/LargestString.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Strings/RunLenghtEncode.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Strings/RunLenghtEncode.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Strings/ShortestPath.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Strings/ShortestPath.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Strings/StingFunc.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Strings/StingFunc.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Strings/StringClass.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Strings/StringClass.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Vector/2DVector.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Vector/2DVector.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Vector/VectorClass.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Vector/VectorClass.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Vector/VectorSort.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Vector/VectorSort.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Vector/find.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Vector/find.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Level 1/Vector/vector.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSAAC/ArmsStrong.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSAAC/ArmsStrong.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSAAC/Conversions/AddTwoBinaryNum.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSAAC/Conversions/AddTwoBinaryNum.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSAAC/Conversions/BinaryToDecimal.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSAAC/Conversions/BinaryToDecimal.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSAAC/Conversions/DecimalToBinary.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSAAC/Conversions/DecimalToBinary.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSAAC/Conversions/DecimalToHexa.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSAAC/Conversions/DecimalToHexa.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSAAC/Conversions/DecimalToOctal.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSAAC/Conversions/DecimalToOctal.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSAAC/Conversions/HexaToDeciaml.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSAAC/Conversions/HexaToDeciaml.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSAAC/Conversions/OctalToDecimal.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSAAC/Conversions/OctalToDecimal.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSAAC/PascalTriangle.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSAAC/PascalTriangle.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSAAC/Pattern/pattern1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSAAC/Pattern/pattern1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSAAC/Pattern/pattern10.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSAAC/Pattern/pattern10.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSAAC/Pattern/pattern11.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSAAC/Pattern/pattern11.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSAAC/Pattern/pattern12.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSAAC/Pattern/pattern12.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSAAC/Pattern/pattern13.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSAAC/Pattern/pattern13.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSAAC/Pattern/pattern14.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSAAC/Pattern/pattern14.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSAAC/Pattern/pattern2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSAAC/Pattern/pattern2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSAAC/Pattern/pattern3.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSAAC/Pattern/pattern3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSAAC/Pattern/pattern4.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSAAC/Pattern/pattern4.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSAAC/Pattern/pattern5.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSAAC/Pattern/pattern5.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSAAC/Pattern/pattern6.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSAAC/Pattern/pattern6.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSAAC/Pattern/pattern7.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSAAC/Pattern/pattern7.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSAAC/Pattern/pattern8.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSAAC/Pattern/pattern8.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSAAC/Pattern/pattern9.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSAAC/Pattern/pattern9.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSAAC/PythagoranTriplet.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSAAC/PythagoranTriplet.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSAAC/ReverseNo.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSAAC/ReverseNo.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSAAC/SumOfNNo.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSAAC/SumOfNNo.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSAAC/isPrime.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSAAC/isPrime.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSAAC/nCr.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSAAC/nCr.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Project/Band Name Generator/BandNameGenerator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Project/CaesarCipher/CaesarCipher.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Project/CaesarCipher/CaesarCipher_art.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Project/Calculator/Calculator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Project/Calculator/Calculator_logo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Project/Capstone/CapstoneProject.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Project/Capstone/Capstone_art.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Project/Coffee Machine OOP/coffee_maker.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Project/Coffee Machine OOP/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Project/Coffee Machine OOP/menu.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Project/Coffee Machine OOP/money_machine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Project/Coffee Machine/CoffeeMachine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Project/Etech Pen Sketching/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Project/Guess The Number/GuessTheNumber.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Project/Guess The Number/GuessTheNumber_art.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Project/Hangman/Hangman.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Project/Hangman/Hangman_art.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Project/Hangman/Hangman_word.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Project/Higher Lower/HigherLower.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Project/Higher Lower/HigherLower_art.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Project/Higher Lower/HigherLower_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Project/Hirst Painting/image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Project/Hirst Painting/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Project/Mail Merge/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Project/Mail Merge/.idea/Mail Merge Project Start.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Project/Mail Merge/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Project/Mail Merge/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Project/Mail Merge/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Project/Mail Merge/Input/Letters/starting_letter.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Project/Mail Merge/Input/Names/invited_names.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Project/Mail Merge/Output/ReadyToSend/example.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Project/Mail Merge/Output/ReadyToSend/letter_for_Aman.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Project/Mail Merge/Output/ReadyToSend/letter_for_Amit.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Project/Mail Merge/Output/ReadyToSend/letter_for_Anand.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Project/Mail Merge/Output/ReadyToSend/letter_for_Kajal.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Project/Mail Merge/Output/ReadyToSend/letter_for_Mohan.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Project/Mail Merge/Output/ReadyToSend/letter_for_Rahul.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Project/Mail Merge/Output/ReadyToSend/letter_for_Rohan.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Project/Mail Merge/Output/ReadyToSend/letter_for_Yash.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Project/Mail Merge/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Project/Maze/Maze.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Project/Password Generator/PassWordGenerator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Project/Ping Pong/ball.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Project/Ping Pong/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Project/Ping Pong/paddle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Project/Ping Pong/scoreboard.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Project/Quiz Game/data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Project/Quiz Game/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Project/Quiz Game/question_model.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Project/Quiz Game/quiz_brain.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Project/Rock Paper Scissors/RockPaperScissors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Project/Silent Auction/SilentAuction.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Project/Silent Auction/SilentAuction_art.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Project/Snake Game/data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Project/Snake Game/food.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Project/Snake Game/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Project/Snake Game/scoreboard.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Project/Snake Game/snake.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Project/Tip Calculator/TipCalculator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Project/Tresure Island/TreasureIsland.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Project/Turtle Crossing Game/car_manager.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Project/Turtle Crossing Game/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Project/Turtle Crossing Game/player.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Project/Turtle Crossing Game/scoreboard.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Project/Turtle Race/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/AddEvenNumber.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/AverageHeight.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/BMI.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/BMI2.0.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/BankerRoulette.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/Data-Types.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/DayInMonth.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/DictionaryList.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/FizzBuzz.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/GradingProgram.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/Heads-Or-Tails.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/HighScore.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/InputFunction.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/Leap_year.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/Life-In-Weeks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/LoveCalculator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/Odd-Or-Even.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/PIzzaOrder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/PaintAreaCal.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/PrimeNumber.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/Printing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/ReeBorgHurdle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/StringManipulation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/TreasureMap.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/Variables.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/turtlebasic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/Bacon/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/Bacon/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/Cafe Menu/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/Cafe Menu/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/Cat Photo App/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/Colored Markers/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/Colored Markers/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/DOM/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/DOM/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/DOM/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/Dice Game/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/Dice Game/images/dice1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/Dice Game/images/dice2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/Dice Game/images/dice3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/Dice Game/images/dice4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/Dice Game/images/dice5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/Dice Game/images/dice6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/Dice Game/images/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/Dice Game/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/Dice Game/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/Drum Kit/images/crash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/Drum Kit/images/kick.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/Drum Kit/images/snare.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/Drum Kit/images/tom1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/Drum Kit/images/tom2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/Drum Kit/images/tom3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/Drum Kit/images/tom4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/Drum Kit/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/Drum Kit/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/Drum Kit/sounds/crash.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/Drum Kit/sounds/kick-bass.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/Drum Kit/sounds/snare.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/Drum Kit/sounds/tom-1.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/Drum Kit/sounds/tom-2.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/Drum Kit/sounds/tom-3.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/Drum Kit/sounds/tom-4.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/Drum Kit/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/MewCat/Images/TED.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/MewCat/Images/atat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/MewCat/Images/cat-img-munchkin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/MewCat/Images/cat-tinder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/MewCat/Images/delta.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/MewCat/Images/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/MewCat/Images/ge-img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/MewCat/Images/girl-cat.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/MewCat/Images/girl-cat2 .jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/MewCat/Images/men-img.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/MewCat/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/MewCat/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/My Site/Images/cloud.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/My Site/Images/coding.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/My Site/Images/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/My Site/Images/listen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/My Site/Images/mountain.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/My Site/Images/suryansh-upadhyay (1) (1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/My Site/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/My Site/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/Personal Site/Images/suryansh-upadhyay.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/Personal Site/contact-me.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/Personal Site/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/Personal Site/hobbies.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/Personal Site/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/Photo Gallery/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/Photo Gallery/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/Registration Form/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/Registration Form/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/Rothko Painting/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/Rothko Painting/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/Simon Game/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/Simon Game/game.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/Simon Game/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/Simon Game/sounds/blue.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/Simon Game/sounds/green.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/Simon Game/sounds/red.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/Simon Game/sounds/wrong.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/Simon Game/sounds/yellow.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/Simon Game/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/jquery/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/jquery/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Development/jquery/styles.css" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2HPPcSQ2orica0MjXjg64LdcgOx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ccb8449-1df9-4e00-8dbd-017cb5bee88c" name="Changes" comment="" />
+      <created>1668183830457</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668183830457</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

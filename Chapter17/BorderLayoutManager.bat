@@ -1,0 +1,3 @@
+javac BorderLayoutManager.java
+appletviewer BorderLayoutManager.java
+pause
